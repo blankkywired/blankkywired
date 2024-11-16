@@ -4,7 +4,7 @@
 -  
 - 🌱 I’m currently learning programming with Python and Linux Fundamentals
 
-- 😄 Pronouns: ...He/Her
+- 😄 Pronouns: ...He/Him
 - 
 - ⚡ Fun fact: ... I like coffee a lot, and I have an interest in Astronomy
 
