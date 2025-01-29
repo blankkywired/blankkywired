@@ -4,7 +4,6 @@ Me chamo Guilherme e atualmente estou começando a estudar programação com Pyt
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blankkywired&show_icons=true&theme=transparent)
 
-
 ### Main Skills
 <img align="center" alt="Blankky-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
