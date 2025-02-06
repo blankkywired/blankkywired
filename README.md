@@ -1,16 +1,30 @@
-# Olá, Seja Bem-vindo(a) ao meu perfil
+###
 
-Me chamo Guilherme e atualmente estou começando a estudar programação com Python e aprendendo Git/GitHub
+<h3 align="center">👩‍💻  About Me</h3>
 
-### Main Skills
-<img align="center" alt="Blankky-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+###
+##### 👋 Hi, I'm Blankky
+##### 🌱 I’m currently learning Python and Programming logic
+##### ⚡ Fun fact: I use arch btw :D
 
-  ##
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blankkywired&show_icons=true&theme=github_dark) 
+  <a href="https://github.com/blankkywired"><img src="https://github-readme-stats.vercel.app/api?username=blankkywired&hide_border=true&show_icons=true&theme=radical" alt="blankkywired's Github Status"></a>
+  <a href="https://github.com/blankkywired"><img src="http://github-readme-streak-stats.herokuapp.com?user=blankkywired&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="blankkywired's Github Status"></a><br>
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blankkywired&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">🛠 Language and tools</h3>
 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
