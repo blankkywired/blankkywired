@@ -8,10 +8,13 @@
 ##### ⚡ Fun fact: I use arch btw :D
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blankkywired&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="blankkywired's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankkywired&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="blankkywired's GitHub Stats" />
 
-  <a href="https://github.com/blankkywired"><img src="https://github-readme-stats.vercel.app/api?username=blankkywired&hide_border=true&show_icons=true&theme=radical" alt="blankkywired's Github Status"></a>
-  <a href="https://github.com/blankkywired"><img src="http://github-readme-streak-stats.herokuapp.com?user=blankkywired&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="blankkywired's Github Status"></a><br>
-###
+
+</div>
+
+
 
 <h3 align="center">🛠 Language and tools</h3>
 
