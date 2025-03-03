@@ -4,8 +4,8 @@
 
 ### Hi, I'm Blankky
 - 🌱 I’m currently learning Python and programming logic.
-- ⚡ Fun fact: I use Arch Linux, by the way. :D
-
+- ⚡ Fun fact: I linux mint, by the way. :D
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blankkywired&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="blankkywired's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=blankkywired&theme=dark&hide_border=true" alt="blankkywired's GitHub Streak Stats" />
@@ -24,3 +24,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
 </div>
+
+-->
