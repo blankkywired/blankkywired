@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Self-taught IT student<br>- 📚 I'm currently learning python and logic programming<br>- ⚡ in my spare time I like to study cybersec</p>
+<p align="left">- Self-taught IT student<br>- 📚 I'm currently learning python and logic programming<br>- ⚡ in my free time I like to study cybersec</p>
 
 ###
 
