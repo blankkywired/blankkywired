@@ -1,18 +1,18 @@
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=blankkywired.blankkywired&left_color=black&right_color=black"  />
+  <img height="300" src="https://i.pinimg.com/1200x/40/a2/55/40a255905d75c80fdf6a3a6e35ec9d3c.jpg"  />
 </div>
 
 ###
 
-<h3 align="left">👩‍💻 Hello, I'm Guilherme. Welcome to my profile</h3>
+<h1 align="center">Hi There</h1>
 
 ###
 
-<p align="left">- Self-taught IT student<br>- 📚 I'm currently learning python and logic programming<br>- ⚡ in my free time I like to study cybersec</p>
+<p align="left">I'm Guilherme,</p>
+
+###
+
+
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -56,3 +56,8 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://open.spotify.com/user/alkmojn0ek67jf3v228bhjd3u">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=alkmojn0ek67jf3v228bhjd3u&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
