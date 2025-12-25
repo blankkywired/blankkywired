@@ -1,44 +1,26 @@
-# ============================================
-# README.md — Cybersecurity Profile
-# ============================================
-
-
 class CyberSecurityProfile:
-    """
-    Focused on Offensive Security and Red Team operations.
-    """
-
     def __init__(self):
         self.name = "Guilherme Abreu"
         self.age = 20
-        self.career_focus = "Cybersecurity | Red Team"
+        self.focus = "Cybersecurity | Red Team"
 
-        self.core_skills = [
+        self.skills = [
             "Python",
-            "Git & GitHub",
+            "Git",
+            "GitHub",
             "Network Fundamentals",
-            "Linux Basics",
-            "Offensive Security Mindset"
+            "Linux Basics"
         ]
 
         self.tools = [
-            "Visual Studio Code",
+            "VS Code",
             "PyCharm",
             "Figma",
             "Obsidian"
         ]
 
-        self.goals = [
+        self.interests = [
+            "Offensive Security",
             "Red Team Operations",
             "Penetration Testing",
-            "Adversary Simulation"
-        ]
-
-
-# --------------------------------------------
-# Profile initialization
-# --------------------------------------------
-
-profile = CyberSecurityProfile()
-
-# Ready to learn, break, understand, and secure systems.
+            "Adver
