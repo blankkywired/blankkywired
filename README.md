@@ -1,3 +1,6 @@
+# ============================================
+# README.md — Cybersecurity Profile
+# ============================================
 
 
 class CyberSecurityProfile:
@@ -14,8 +17,8 @@ class CyberSecurityProfile:
             "Python",
             "Git & GitHub",
             "Network Fundamentals",
-            "Linux Basics"
-
+            "Linux Basics",
+            "Offensive Security Mindset"
         ]
 
         self.tools = [
