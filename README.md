@@ -1,6 +1,3 @@
-# ============================================
-# README.md — Cybersecurity Profile
-# ============================================
 
 
 class CyberSecurityProfile:
